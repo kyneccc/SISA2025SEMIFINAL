@@ -23,5 +23,8 @@ openstack subnet create  --subnet-range 192.168.123.0/24 --gateway 192.168.123.1
 ``` bash
 openstack router add subnet <Имя роутера> <Имя подсети> --insecure
 ```
+## Создание инстанса в КиберИнфраструктуре
+
+
 
 
